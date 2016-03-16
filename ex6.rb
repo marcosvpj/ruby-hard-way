@@ -18,3 +18,6 @@ left = "Left side"
 
 puts "And I can even 'sum' strings:"
 puts left + " and " + right
+
+
+puts 'And this dont work #{funny}'
